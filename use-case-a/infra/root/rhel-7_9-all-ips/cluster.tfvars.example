@@ -1,0 +1,2 @@
+rancher_api_url = "https://my-rancher.example.com"
+rancher_token   = "token-abcde:examplerbkgdxvfb2snxm9khrhvw74mg5rr8nvfz8qsg5cjghkrf8q4"

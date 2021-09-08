@@ -1,0 +1,8 @@
+aws_region = "us-east-2"
+
+# Comment or remove if using local AWS CLI config
+aws_access_key = "AKIAIOSFODNN7EXAMPLE"
+aws_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+# Uncomment if using GovCloud
+# aws_ami_owner = "219670896067"
